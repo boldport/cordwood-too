@@ -8,32 +8,38 @@
         {
           "buffer-to-pour": 0.1, 
           "font-family": "Helsinki-webfont", 
-          "font-size": "1.2mm", 
+          "font-size": "1.4mm", 
           "layers": [
             "top"
           ], 
           "letter-spacing": "0mm", 
-          "line-height": "1.5mm", 
+          "line-height": "1.4mm", 
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "Cordwood Puzzle",
+          "value": "Cordwood\nPuzzle\ntoo",
           "location": [0,0]
-        },
+        }
+      ]
+    },
+    "soldermask":
+    {
+      "shapes":
+      [
         {
           "buffer-to-pour": 0.1, 
           "font-family": "Helsinki-webfont", 
-          "font-size": "1.2mm", 
+          "font-size": "1.4mm", 
           "layers": [
             "top"
           ], 
           "letter-spacing": "0mm", 
-          "line-height": "1.2mm", 
+          "line-height": "1.4mm", 
           "rotate": 0, 
           "style": "fill", 
           "type": "text", 
-          "value": "second edition",
-          "location": [0.8,-1]
+          "value": "Cordwood\nPuzzle\ntoo",
+          "location": [0,0]
         }
       ]
     }
