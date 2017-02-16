@@ -220,7 +220,7 @@
       "drill": 0.4, 
       "outline": 0.25, 
       "pad": 0.3, 
-      "route": 0.25
+      "route": 0.2
     }, 
     "soldermask": {
       "circle-buffer": 0.05, 
@@ -305,24 +305,35 @@
     }
   }, 
   "shapes": {
+    "BP-LOGO": {
+      "footprint": "boldport-logo-b", 
+      "layer": "top", 
+      "location": [
+        -17.603413, 
+        9.159086
+      ], 
+      "rotate": 0, 
+      "scale": 0.6, 
+      "show": true
+    }, 
+    "BPC-LOGO": {
+      "footprint": "boldport-club-logo-bc", 
+      "layer": "top", 
+      "location": [
+        -15.015297, 
+        -20.05424
+      ], 
+      "rotate": 0, 
+      "show": true
+    }, 
     "INFO": {
       "footprint": "text", 
       "layer": "top", 
       "location": [
-        27.558049, 
-        -13.480169
+        14.873976, 
+        -20.8755
       ], 
-      "rotate": 90, 
-      "show": true
-    }, 
-    "LOGO": {
-      "footprint": "boldport-logo-b", 
-      "layer": "top", 
-      "location": [
-        -36.68412, 
-        -13.049424
-      ], 
-      "rotate": 90, 
+      "rotate": 0, 
       "show": true
     }, 
     "PR": {
@@ -332,7 +343,7 @@
         0, 
         0
       ], 
-      "show": false
+      "show": true
     }, 
     "SM": {
       "footprint": "soldermask", 
@@ -351,6 +362,16 @@
         0
       ], 
       "show": false
+    }, 
+    "URL": {
+      "footprint": "url", 
+      "layer": "top", 
+      "location": [
+        0.980997, 
+        -23.453525
+      ], 
+      "rotate": 0, 
+      "show": true
     }
   }, 
   "soldermask": {
