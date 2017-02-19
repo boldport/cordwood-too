@@ -7,7 +7,7 @@
         0, 
         10
       ], 
-      "rotate": 90, 
+      "rotate": -90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -52,7 +52,7 @@
         0, 
         -10
       ], 
-      "rotate": -90, 
+      "rotate": 90, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -80,7 +80,7 @@
           "show": false
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -106,7 +106,7 @@
           "show": false
         }, 
         "shapes": {
-          "show": false
+          "show": true
         }
       }
     }, 
@@ -131,6 +131,7 @@
         -10, 
         10
       ], 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -159,6 +160,7 @@
         -10, 
         -10
       ], 
+      "rotate": 180, 
       "show": true, 
       "silkscreen": {
         "refdef": {
@@ -290,8 +292,8 @@
       "footprint": "boldport-logo-b", 
       "layer": "top", 
       "location": [
-        -17.603413, 
-        9.159086
+        17.521017, 
+        10.674982
       ], 
       "rotate": 0, 
       "scale": 0.6, 
@@ -302,7 +304,7 @@
       "layer": "top", 
       "location": [
         -15.015297, 
-        -20.05424
+        -19.998779
       ], 
       "rotate": 0, 
       "show": true
@@ -311,8 +313,8 @@
       "footprint": "text", 
       "layer": "top", 
       "location": [
-        14.873976, 
-        -20.8755
+        15.569139, 
+        -19.942692
       ], 
       "rotate": 0, 
       "show": true
@@ -357,8 +359,8 @@
       "footprint": "url", 
       "layer": "top", 
       "location": [
-        0.980997, 
-        -23.453525
+        0.147893, 
+        -23.231681
       ], 
       "rotate": 0, 
       "show": true
