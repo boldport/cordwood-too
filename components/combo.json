@@ -58,6 +58,49 @@
   {
     "silkscreen":
     {
+      "shapes":
+      [
+	{
+	  "type": "circle",
+	  "layers": ["top"],
+  	  "location": [-5.2, 5.2],
+          "style": "stroke",
+          "stroke-width": 0.4,
+          "diameter": 3
+	},
+	{
+	  "type": "circle",
+	  "layers": ["top"],
+          "style": "stroke",
+          "location": [5.2, 5.2],
+          "stroke-width": 0.4,
+          "diameter": 3
+	},
+	{
+	  "type": "circle",
+	  "layers": ["top"],
+          "style": "stroke",
+          "location": [-5.2, -5.2],
+          "stroke-width": 0.4,
+          "diameter": 3
+	},
+	{
+	  "type": "circle",
+	  "layers": ["top"],
+          "style": "stroke",
+          "location": [5.2, -5.2],
+          "stroke-width": 0.4,
+          "diameter": 3
+	},
+	{
+	  "type": "circle",
+	  "layers": ["top"],
+          "style": "stroke",
+          "location": [0, 0],
+          "stroke-width": 0.4,
+          "diameter": 10
+	}
+      ]
     },
     "assembly":
     {

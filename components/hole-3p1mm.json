@@ -15,6 +15,17 @@
   {
     "silkscreen":
     {
+      "shapes": 
+      [     
+ 	{
+	  "type": "circle",
+	  "layers": ["top"],
+  	  "location": [0, 0],
+          "style": "stroke",
+          "stroke-width": 0.4,
+          "diameter": 6
+	}
+      ]
     },
     "assembly":
     {
