@@ -277,6 +277,78 @@
     "min-segment-length": 0.05, 
     "steps-per-segment": 100
   }, 
+  "layer-control": {
+    "assembly": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "conductor": {
+      "hide": false, 
+      "lock": false, 
+      "pads": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }, 
+      "place": true, 
+      "pours": {
+        "hide": false, 
+        "lock": true, 
+        "place": true
+      }, 
+      "routing": {
+        "hide": false, 
+        "lock": false, 
+        "place": true
+      }
+    }, 
+    "dimensions": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "documentation": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "drills": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "origin": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "outline": {
+      "hide": false, 
+      "lock": true, 
+      "place": true
+    }, 
+    "placement": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "silkscreen": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "soldermask": {
+      "hide": false, 
+      "lock": false, 
+      "place": true
+    }, 
+    "solderpaste": {
+      "hide": true, 
+      "lock": true, 
+      "place": true
+    }
+  }, 
   "outline": {
     "measurements": {
       "font-family": "UbuntuMono-R-webfont", 
@@ -304,7 +376,7 @@
       "layer": "top", 
       "location": [
         -15.015297, 
-        -21.913949
+        -21.127666
       ], 
       "rotate": 0, 
       "show": true
@@ -313,10 +385,11 @@
       "footprint": "text", 
       "layer": "top", 
       "location": [
-        15.569139, 
-        -21.830738
+        15.680058, 
+        -21.091276
       ], 
       "rotate": 0, 
+      "scale": 1.1, 
       "show": true
     }, 
     "PR": {
@@ -363,6 +436,7 @@
         -23.231681
       ], 
       "rotate": 0, 
+      "scale": 1.3, 
       "show": true
     }
   }, 
